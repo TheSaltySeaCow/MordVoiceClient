@@ -1,5 +1,5 @@
-https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.1/builder-debug.yml
-https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.1/builder-effective-config.yaml
-https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.1/latest.yml
-https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.1/Mord-Voice-Setup-1.0.1.exe.blockmap
-https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.1/Mord-Voice-Setup-1.0.1.exe
+https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.3/builder-debug.yml
+https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.3/builder-effective-config.yaml
+https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.3/latest.yml
+https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.3/Mord-Voice-Setup-1.0.3.exe.blockmap
+https://github.com/TheSaltySeaCow/MordVoiceClient/releases/download/1.0.3/Mord-Voice-Setup-1.0.3.exe
